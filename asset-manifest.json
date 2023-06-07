@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/webflow-react/static/js/main.f1e58149.js",
+    "index.html": "/webflow-react/index.html",
+    "main.f1e58149.js.map": "/webflow-react/static/js/main.f1e58149.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.f1e58149.js"
+  ]
+}
